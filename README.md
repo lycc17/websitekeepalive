@@ -1,10 +1,3 @@
-这里是更新后的 `README.md`，我已将图片展示位置添加到了**徽章（Badges）下方**，这样别人打开仓库第一时间就能看到效果图。
-
-请注意：您需要将这张图片重命名为 `dashboard_preview.png`（或者其他您喜欢的名字），并上传到您的 GitHub 仓库根目录中，否则图片无法正常显示。
-
-***
-
-```markdown
 # 🌩️ Cloudflare Worker Service Monitor
 
 一个基于 Cloudflare Workers 的全能型服务监控与保活工具。集成了美观的 **状态仪表盘 (Dashboard)**、**Telegram 报警通知** 以及 **KV 数据持久化**，非常适合用于监控个人博客、API 接口以及防止 PaaS 平台（如 Koyeb, HuggingFace, Render）因闲置而休眠。
