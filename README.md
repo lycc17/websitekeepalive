@@ -87,7 +87,7 @@ https://my-website.com
 ## 🖥️ 使用仪表盘
 
 部署完成后，直接访问 Worker 的 URL (例如 `https://uptime-monitor.your-name.workers.dev`) 即可进入管理面板。
-
+<img width="1064" height="944" alt="14255309-97d5-474c-b83a-a86492b0f811" src="https://github.com/user-attachments/assets/144b385a-51de-4ff5-bdd0-d384eb42b173" />
 *   **Status Badge**:
     *   🟢 `HTTP 200`: 服务正常。
     *   ⚪ `WAITING`: 等待下一次 Cron 周期（未到检测时间）。
@@ -123,4 +123,3 @@ PAGE_TITLE = "My Service Monitor"
 
 ---
 **License**: MIT
-```
